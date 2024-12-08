@@ -123,7 +123,7 @@ main a {
     color: var(--cor5);
     font-weight: bold;
     background-color: var(--cor1);
-    padding: 3px 6px;
+    padding: 2px 6px;
     border-radius: 99px;
     text-decoration: none;
 }
